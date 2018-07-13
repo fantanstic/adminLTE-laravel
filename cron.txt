@@ -1,0 +1,1 @@
+59 23 * * * /www/wdlinux/phps/71/bin/php /www/web/admin/artisan cache:update;
